@@ -61,7 +61,7 @@ The structure of the project may vary depending on its size and complexity. I pe
         └── getLocalCommands.js
 ```
 
-### Instalation
+### Installation
 All necessary installation for the project:
 1. Install the Discord.js library `npm install discord.js`.
 2. Install the dotenv library for managing environment variables `npm install dotenv`.
