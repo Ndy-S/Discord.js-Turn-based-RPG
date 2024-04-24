@@ -86,5 +86,7 @@ Contributions to this project are highly appreciated. If you would like to contr
 3. Commit your changes and push the branch to your forked repository.
 4. Submit a pull request, explaining the changes you made and their significance.
 
-
 Your contributions can include bug fixes, new features, or improvements to the existing codebase. 
+
+## License
+MIT
