@@ -79,14 +79,5 @@ Feel free to explore the `battle.js` file and related commands to understand how
 ## Running the Bot
 To run the bot, you can use the `nodemon` command if you have the `nodemon` library installed. This command helps with automatic server reloading during development, allowing you to see the changes in real-time as you make modifications to the code. To initialize the battle, you can use the `/battle` command in your discord server.
 
-## Contributing
-Contributions to this project are highly appreciated. If you would like to contribute, please follow these steps:
-1. Fork the repository to your own GitHub account.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push the branch to your forked repository.
-4. Submit a pull request, explaining the changes you made and their significance.
-
-Your contributions can include bug fixes, new features, or improvements to the existing codebase. 
-
 ## License
 MIT
